@@ -1,6 +1,6 @@
 
 <a href="https://github.com/ARna06">
-  <img src="./Banner_small.png" alt="Header" style="height: 500px, width: 700px"/>
+  <img src="./banner.webp" alt="Header" style="height: 500px, width: 700px"/>
 </a>
 
 ### Hello There , <img src="./GOWK.png" style="width: 30px;"/>
